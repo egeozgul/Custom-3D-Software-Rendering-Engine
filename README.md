@@ -16,3 +16,5 @@ This is a rendering engine that I developed in C from scratch without using any 
 * used multithreading for rendering triangles, and smiulating the environment dyanmics.
 * implemented triangle clipping algotihm for optimizing the rasterization process.
 * custom font loading and rendering
+* fast triangle mesh intersection detection
+* graph generation for mesh surface and objects (generates neighbor list of triangles)
