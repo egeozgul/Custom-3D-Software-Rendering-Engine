@@ -1,8 +1,8 @@
 # Custom-3D-Software-Rendering-Engine
+This is a rendering engine that I developed in C from scratch without using any library. I used gerstner ocean wave model to animate an ocean surface.
 
 ![image](image.png)
 
-This is a rendering engine that I developed in C from scratch without using any library. I used gerstner ocean wave model to animate an ocean surface.
 # Current Features:
 * depth-buffering for the painters problem.
 * triangle rasterization
