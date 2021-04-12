@@ -2,7 +2,6 @@
 This is a rendering engine that I developed in C from scratch without using any library. I used gerstner ocean wave model to animate an ocean surface.
 
 ![image](video.gif)
-![image](image.png)
 
 # Current Features:
 * depth-buffering for the painters problem.
