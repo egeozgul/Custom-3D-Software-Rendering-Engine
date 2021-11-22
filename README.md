@@ -14,7 +14,6 @@ I programmed everything in completely from sctrach including triangle rasterizat
 * FPS counter and limiter
 * pixel buffer masking (for removing water inside the boat)
 * resiable window size without blocking the program (I used seprate threads for handling client messages and for the main program)
-* used multithreading for rendering triangles, and smiulating the environment dyanmics.
 * implemented triangle clipping algotihm for optimizing the rasterization process.
 * custom font loading and rendering
 * fast triangle mesh intersection detection
