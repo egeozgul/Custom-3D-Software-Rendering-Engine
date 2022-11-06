@@ -1,5 +1,5 @@
-# Custom-3D-Software-Rendering-Engine
-This is a rendering engine that I developed in C from scratch without using any library. I
+# Custom-3D-Simulation-&-Rendering-Engine
+This is a simulation and rendering engine that I developed in C from scratch without using any library. I
 I programmed everything in completely from sctrach including triangle rasterization and 3D projection. Not library is used. I even wrote the matrix calculation by hand.
 
 ![image](video.gif)
