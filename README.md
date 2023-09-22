@@ -1,11 +1,13 @@
 # Custom-3D-Simulation-&-Rendering-Engine
-This is a simulation and rendering engine that I developed in C from scratch without using any library. I
-I programmed everything in completely from sctrach including triangle rasterization and 3D projection. No library is used. I even wrote the matrix calculation by hand.
+This is a simulation and rendering engine that is developed in C from scratch without using any library.
+Everything is programmed completely from sctrach including triangle rasterization and 3D projection algorithms. No library is used. Even the matrix functions are implemented from scratch.
 
 ![image](video.gif)
 
+#algorithms implemented epth buffering [painters problem](https://en.wikipedia.org/wiki/Painter%27s_algorithm)
+
 # Current Features:
-* depth-buffering for the painters problem.
+* depth-buffering
 * triangle rasterization with antialiasing and shading calculations
 * back face culling for optimizing rednering
 * wavefront file format loading
