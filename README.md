@@ -1,6 +1,6 @@
 # Custom-3D-Simulation & Rendering-Engine
 This is a simulation and rendering engine that is developed in C from scratch without using any library.
-Everything is programmed completely from sctrach including triangle rasterization and 3D projection algorithms. No library is used. Even the matrix functions are implemented from scratch.
+Everything is programmed completely from sctrach including triangle rasterization and 3D projection algorithms. No library is used. Even the matrix functions and font rendering subroutines are implemented from scratch.
 
 ![image](video.gif)
 
