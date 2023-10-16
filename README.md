@@ -1,11 +1,11 @@
 # 🌌 Custom-3D-Simulation & Rendering-Engine
 
-Dive into a mesmerizing world of custom 3D simulation with this cutting-edge Rendering Engine. Developed purely in C, this engine is a testament to the raw power of handcrafted code. Witness the intricate details as everything, from triangle rasterization to 3D projection algorithms, is crafted without leaning on any external libraries. Not just that, even foundational elements like matrix functions and font rendering are implemented from the ground up.
+Dive into a mesmerizing world of custom 3D simulation with this cutting-edge Rendering Engine. Developed purely in C++, this engine is a testament to the raw power of handcrafted code. Witness the intricate details as everything, from triangle rasterization to 3D projection algorithms, is crafted without leaning on any external libraries. Not just that, even foundational elements like matrix functions and font rendering are implemented from the ground up.
 
 ![Showcase](video.gif)
 
 ## 🎯 Highlights:
--  **Pure C Implementation**: Every line, every function, every algorithm is home-brewed, providing an unadulterated C experience.
+-  **Pure C++ Implementation**: Every line, every function, every algorithm is home-brewed, providing an unadulterated C++ experience.
 -  **Depth-buffering**: A sophisticated solution to the age-old [painter's problem](https://en.wikipedia.org/wiki/Painter%27s_algorithm).
 -  **Advanced Triangle Rasterization**: Enhanced with antialiasing and shading calculations for richer visuals.
 -  **Optimized Rendering**: Leverage back face culling to reduce render times and enhance performance.
