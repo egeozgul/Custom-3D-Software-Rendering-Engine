@@ -5,19 +5,19 @@ Dive into a mesmerizing world of custom 3D simulation with this cutting-edge Ren
 ![Showcase](video.gif)
 
 ## 🎯 Highlights:
-- 💻 **Pure C Implementation**: Every line, every function, every algorithm is home-brewed, providing an unadulterated C experience.
-- 🎨 **Depth-buffering**: A sophisticated solution to the age-old [painter's problem](https://en.wikipedia.org/wiki/Painter%27s_algorithm).
-- 🔺 **Advanced Triangle Rasterization**: Enhanced with antialiasing and shading calculations for richer visuals.
-- ⏭️ **Optimized Rendering**: Leverage back face culling to reduce render times and enhance performance.
-- 🌐 **Multiple File Format Support**: In-built capabilities to load wavefront file formats.
-- 🌌 **Sphere Rendering**: Render spheres without relying on geometry data.
-- 📈 **FPS Management**: An in-built FPS counter and limiter ensures your simulations run smoothly.
-- 🚫 **Pixel Buffer Masking**: Ensure perfection by removing undesired elements like water inside a boat.
-- 🔄 **Resizable Window**: Adjust the window size on-the-fly without any hiccups, thanks to separate threads managing client messages and the main program.
-- ✂️ **Triangle Clipping Algorithm**: Optimize the rasterization process, saving computational power.
-- 📜 **Font Management**: Load and render custom fonts to add a personal touch.
-- 🔍 **Fast Intersection Detection**: Quickly detect intersections in triangle meshes.
-- 📊 **Graph Generation**: Generate intricate graphs for mesh surfaces and objects, mapping out the entire mesh neighborhood.
+-  **Pure C Implementation**: Every line, every function, every algorithm is home-brewed, providing an unadulterated C experience.
+-  **Depth-buffering**: A sophisticated solution to the age-old [painter's problem](https://en.wikipedia.org/wiki/Painter%27s_algorithm).
+-  **Advanced Triangle Rasterization**: Enhanced with antialiasing and shading calculations for richer visuals.
+-  **Optimized Rendering**: Leverage back face culling to reduce render times and enhance performance.
+-  **Multiple File Format Support**: In-built capabilities to load wavefront file formats.
+-  **Sphere Rendering**: Render spheres without relying on geometry data.
+-  **FPS Management**: An in-built FPS counter and limiter ensures your simulations run smoothly.
+-  **Pixel Buffer Masking**: Ensure perfection by removing undesired elements like water inside a boat.
+-  **Resizable Window**: Adjust the window size on-the-fly without any hiccups, thanks to separate threads managing client messages and the main program.
+-  **Triangle Clipping Algorithm**: Optimize the rasterization process, saving computational power.
+-  **Font Management**: Load and render custom fonts to add a personal touch.
+-  **Fast Intersection Detection**: Quickly detect intersections in triangle meshes.
+-  **Graph Generation**: Generate intricate graphs for mesh surfaces and objects, mapping out the entire mesh neighborhood.
 
 ## 🚀 Getting Started
 
