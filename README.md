@@ -2,7 +2,9 @@
 
 Dive into a mesmerizing world of custom 3D simulation with this cutting-edge Rendering Engine. Developed purely in C++, this engine is a testament to the raw power of handcrafted code. Witness the intricate details as everything, from triangle rasterization to 3D projection algorithms, is crafted without leaning on any external libraries. Not just that, even foundational elements like matrix functions and font rendering are implemented from the ground up.
 
-![Showcase](video.gif)
+<p align="center">
+    <img src="video.gif" width="90%" height="50%">
+</p>
 
 ## 🎯 Highlights:
 -  **Pure C++ Implementation**: Every line, every function, every algorithm is home-brewed, providing an unadulterated C++ experience.
