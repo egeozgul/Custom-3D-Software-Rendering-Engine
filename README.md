@@ -1,6 +1,6 @@
 # 🌌 Custom-3D-Simulation & Rendering-Engine
 
-Dive into a mesmerizing world of custom 3D simulation with this cutting-edge Rendering Engine. Developed purely in C++, this engine is a testament to the raw power of handcrafted code. Witness the intricate details as everything, from triangle rasterization to 3D projection algorithms, is crafted without leaning on any external libraries. Not just that, even foundational elements like matrix functions and font rendering are implemented from the ground up.
+This is a software rendering simuilation engine developed purely in C++. Witness the intricate details as everything, from triangle rasterization to 3D projection algorithms, is crafted without leaning on any external libraries. Not just that, even foundational elements like matrix functions and font rendering are implemented from the ground up.
 
 <p align="center">
     <img src="video.gif" width="90%" height="50%">
@@ -19,34 +19,11 @@ Dive into a mesmerizing world of custom 3D simulation with this cutting-edge Ren
 -  **Triangle Clipping Algorithm**: Optimize the rasterization process, saving computational power.
 -  **Font Management**: Load and render custom fonts to add a personal touch.
 -  **Fast Intersection Detection**: Quickly detect intersections in triangle meshes.
--  **Graph Generation**: Generate intricate graphs for mesh surfaces and objects, mapping out the entire mesh neighborhood.
-
-## 🚀 Getting Started
-
-1. **Clone and Setup**:
-   - `git clone <repository-link>`
-   - Follow the setup instructions specific to your environment.
-
-2. **Run & Explore**:
-   - Execute the program and explore the rich 3D simulation capabilities.
-   - Load custom models, adjust settings, and create beautiful simulations.
-
-## 🌟 Future Roadmap:
-
-- Introduce real-time shadows and reflections.
-- Extend file format support.
-- Enhance the performance optimizations with spatial data structures.
-- Implement advanced physical simulations and environmental effects.
 
 ## 🤝 Contribute:
 
-Your insights could make this engine even more spectacular! Feel free to submit pull requests, suggest new features, or report issues.
+Feel free to submit pull requests, suggest new features, or report issues.
 
 ## 📜 License:
 
 Open-sourced under the MIT license.
-
----
-
-🌟 Explore, Innovate, and Elevate your 3D simulations with this custom rendering engine!
-
