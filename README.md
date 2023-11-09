@@ -18,5 +18,5 @@ This is a software rendering and simuilation engine developed purely in C++. Wit
 -  **Bouyancy Estimation**: The bouyant forces under the boat is computed dynamically to compute the absolute torque and forces that orient and move the boat when wave hits.
   
 ## 🎯 How to Execute:
-- copy the exe folder to your computer
-- run the .exe
+- copy the executable folder to your computer
+- run the enginer.exe by double clicking on it
