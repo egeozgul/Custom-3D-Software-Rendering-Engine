@@ -1,22 +1,22 @@
-# 🌌 Custom-3D-Simulation & Rendering-Engine
+# Custom 3D Simulation & Rendering Engine
 
-This is a software rendering and simuilation engine developed purely in C++. Witness the intricate details as everything, from triangle rasterization to 3D projection algorithms, is crafted without leaning on any external libraries. Not just that, even foundational elements like matrix functions and font rendering are implemented from the ground up.
+This is a **C++-based software rendering and simulation engine** built entirely from scratch. It includes everything from **triangle rasterization** and **3D projection algorithms** to basic utilities like **matrix operations** and **font rendering**, all implemented without relying on external libraries.
 
 <p align="center">
     <img src="video.gif" width="90%" height="50%">
 </p>
 
-## 🎯 Current Features:
--  **Depth-buffering** See [painter's problem](https://en.wikipedia.org/wiki/Painter%27s_algorithm).
--  **Triangle Rasterization**: Enhanced with shading computations for richer visuals.
--  **Face Culling**: A face is not rendered if it "looks" aways from the camera to reduce render times and enhance performance.
--  **3D Object File loader**: supports wavefront 3D models.
--  **FPS Management**: An in-built FPS counter and limiter ensures the program runs smoothly.
--  **Pixel Buffer Masking**: For removing water inside a boat.
--  **Resizable Window**: Adjust the window size on-the-fly without any interruptions, an additional thread is utilized to to handle resizing of the windows.
--  **Font Management**: Load and render custom fonts.
--  **Bouyancy Estimation**: The bouyant forces under the boat is computed dynamically to compute the absolute torque and forces that orient and move the boat when wave hits.
-  
-## 🎯 How to Execute:
-- copy the executable folder to your computer
-- run the enginer.exe by double clicking on it
+## Key Features:
+- **Depth Buffering**: Solves the painter's algorithm problem for accurate depth rendering.
+- **Triangle Rasterization**: Includes shading for improved visual quality.
+- **Face Culling**: Skips rendering faces not visible to the camera to boost performance.
+- **3D Object Loader**: Supports Wavefront (.obj) 3D models.
+- **FPS Management**: Built-in FPS counter and limiter for smooth performance.
+- **Pixel Buffer Masking**: Enables effects like removing water inside a boat.
+- **Resizable Window**: Adjust window size dynamically without interruptions, handled by a dedicated thread.
+- **Font Rendering**: Load and display custom fonts.
+- **Buoyancy Simulation**: Dynamically calculates buoyant forces and torque to simulate realistic boat movement when hit by waves.
+
+## How to Run:
+1. Copy the executable folder to your computer.
+2. Double-click `engine.exe` to start the application.
