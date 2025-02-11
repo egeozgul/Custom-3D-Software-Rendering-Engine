@@ -3,7 +3,7 @@
 This is a **C++-based software rendering and simulation engine** built entirely from scratch. It includes everything from **triangle rasterization** and **3D projection algorithms** to basic utilities like **matrix operations** and **font rendering**, all implemented without relying on external libraries.
 
 <p align="center">
-    <img src="video.gif" width="90%" height="50%">
+    <img src="image.png" width="90%" height="50%">
 </p>
 
 ## Key Features:
