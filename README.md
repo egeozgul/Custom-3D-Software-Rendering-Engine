@@ -6,7 +6,7 @@ This is a **C++-based software rendering and simulation engine** built entirely 
     <img src="video.gif" width="90%">
 </p>
 
-## Key Features:
+## Key Features Developed:
 - **Depth Buffering**: Solves the painter's algorithm problem for accurate depth rendering.
 - **Triangle Rasterization**: Includes shading for improved visual quality.
 - **Face Culling**: Skips rendering faces not visible to the camera to boost performance.
@@ -17,6 +17,6 @@ This is a **C++-based software rendering and simulation engine** built entirely 
 - **Font Rendering**: Load and display custom fonts.
 - **Buoyancy Simulation**: Dynamically calculates buoyant forces and torque to simulate realistic boat movement when hit by waves.
 
-## How to Run:
+## How to Run (on Windows):
 1. Copy the executable folder to your computer.
 2. Double-click `engine.exe` to start the application.
